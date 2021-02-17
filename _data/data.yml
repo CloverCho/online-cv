@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Yunsang Cho
+    tagline: Machine Learning Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: snsc7878@hanyang.ac.kr
+    phone: 82 10 8719 4020
+    website: CloverCho.github.io #do not add http://
     linkedin: alandoe
-    github: sharu725
+    github: CloverCho
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -26,20 +26,14 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Cycling
         link:
 
       - item: Cooking
